@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/search/text.js"],"names":[],"mappings":";;;;;;AAAA;AAAA;AAAA;AAAA;AAEA;AAEc;AAAA,SAAK,6FAAL;AAAA,CAAd,E","file":"2_129da625.js","sourcesContent":["//动态懒加载import的组件\r\n\r\nimport React from 'react';\r\n\r\nexport default()=> <div>动态import</div>;"],"sourceRoot":""}
